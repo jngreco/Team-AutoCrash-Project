@@ -3,7 +3,7 @@
 <h3> HvPlot and Geoviews Visualizations - Jess Greco
 
 
-In an effort to better understand and visualize car crash data in Chicago, five maps were created using HvPlot and Geoviews. The intitial dataset was filtered down to recorded crashes from the last five years (2018-2022) in order to acheive a clear and cohesive map. There were a total of 930,155 crashes from 2018-2022. The vast majority of crashes, or 794,650 (85.4%), recorded no indication of injury, followed by 76,512 (8.2%) non-incapacitating injuries, 42,275 (4.5%) reported but nonevident injuries, 15,757 (1.7%) incapacitating injuries, and 961 (0.1%) fatal injuries. 
+<h6> In an effort to better understand and visualize car crash data in Chicago, five maps were created using HvPlot and Geoviews. The intitial dataset was filtered down to recorded crashes from the last five years (2018-2022) in order to acheive a clear and cohesive map. There were a total of 930,155 crashes from 2018-2022. The vast majority of crashes, or 794,650 (85.4%), recorded no indication of injury, followed by 76,512 (8.2%) non-incapacitating injuries, 42,275 (4.5%) reported but nonevident injuries, 15,757 (1.7%) incapacitating injuries, and 961 (0.1%) fatal injuries. 
 
 A map was created to display the locations of the 961 injuries from 2018-2022. Points were plotted by primary contributory cause. Of the crashes, 143 involved the car make Chevrolet. The majority of crashes (243) had a primary contributory cause that was unable to be determined. Points are dispersed fairly evenly throughout the map, with no clear clusters. 
 
