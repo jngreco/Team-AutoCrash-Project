@@ -19,7 +19,7 @@ While the maps do not tell us with any degree of certainty what variables play a
   
 <h3> Auto Fatalities by Road Attribute - Number of Lanes and Posted Speed Limit - Michael O'Leary
 
-<h5> In the Chicago_Data-michael notebook, we pulled in all Chicago traffic crash data from the City of Chicago.  We filtered by the years 2018 - 2022, to ensure we have complete years for comparison and because more recent years have better data quality.  We examined the data to find what elements had value and discarded the rest, and we merged the datasets together into a single dataframe, and we renamed columns for clarity, and we cleansed data and filtered for scope.  
+<h5> In the Chicago_Data-Road-Attributes notebook, we pulled in all Chicago traffic crash data from the City of Chicago.  We filtered by the years 2018 - 2022, to ensure we have complete years for comparison and because more recent years have better data quality.  We examined the data to find what elements had value and discarded the rest, and we merged the datasets together into a single dataframe, and we renamed columns for clarity, and we cleansed data and filtered for scope.  
 
 After cleansing, we looked at crashes, injuries and fatalities by number of lanes and found that 88% of crashes occurred on 2 or 4 lane loads - likely representing more the makeup of Chicago roadways than anything stitically valid.  We could test this if we could find the number of Chicago lane-miles of each type of road, but that data didn't appear to be available.  
 
@@ -29,7 +29,7 @@ Then we looked at the percentage of crashes by number of lanes which resulted in
 
 Next, we moved on to look at injuries and fatalities as related to the posted speed limits.  What observed that severe injuries rose with speed limit up to 40 miles per hour, then declined - and fatalities didn't show a correlation with speed limit.  
 
-Finally, we took a look at the auto fatalies per capity in Chicago vs. the national average - and found that Chicago is signifigantly safter than the national average - with Chicago being 29% safer than the national average in 2021.  
+Finally, we took a look at the auto fatalies per capita in Chicago vs. the national average - and found that Chicago is signifigantly safter than the national average - with Chicago being 29% safer than the national average in 2021.  
 
 <h3> Zip Code and Vehicle Make/Year Analysis - Connor Thomas
 
